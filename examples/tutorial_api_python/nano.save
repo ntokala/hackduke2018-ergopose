@@ -1,0 +1,6 @@
+Error:
+Prototxt file not found: /usr/local/python/openpose/../../models/pose/body_25/pose_deploy.prototxt
+.
+Possible causes:
+        1. Not downloading the OpenPose trained models.
+
