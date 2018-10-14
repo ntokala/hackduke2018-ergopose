@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     <img src=".github/Logo_main_black.png", width="300">
 </div>
@@ -186,3 +187,6 @@ Please cite these papers in your publications if it helps your research (the fac
 
 ## License
 OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](LICENSE) for further details. [Interested in a commercial license? Check this link](https://flintbox.com/public/project/47343/). For commercial queries, contact [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/).
+=======
+# ErgoPose
+>>>>>>> 389da845f99b0ea42d16827420382b92047193fd
